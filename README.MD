@@ -1,3 +1,15 @@
+<<<<<<< HEAD
+
+=======
+
+>>>>>>> 8eaf2231cd6b4624823c3aa93b17bef79685606a
+>>>>>>>
+>>>>>>
+>>>>>
+>>>>
+>>>
+>>
+
 # 🎬 Cine Show
 
 **Cine Show** is a sleek, modern web application for showcasing popular TV series, movies, and documentaries. The project is built using Bootstrap for responsive design, and it features dynamic carousels and interactive search functionality.
