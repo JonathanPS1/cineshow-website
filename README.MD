@@ -1,6 +1,3 @@
-Here's a template for an aesthetic `README.md` for your project, which appears to be a movie or series carousel website called "Cine Show" built with HTML, CSS, Bootstrap, and JavaScript:
-
----
 
 # 🎬 Cine Show
 
