@@ -1,7 +1,3 @@
-Here's a template for an aesthetic `README.md` for your project, which appears to be a movie or series carousel website called "Cine Show" built with HTML, CSS, Bootstrap, and JavaScript:
-
----
-
 # 🎬 Cine Show
 
 **Cine Show** is a sleek, modern web application for showcasing popular TV series, movies, and documentaries. The project is built using Bootstrap for responsive design, and it features dynamic carousels and interactive search functionality.
